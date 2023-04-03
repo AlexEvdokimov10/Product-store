@@ -1,0 +1,28 @@
+.addBtn{
+    padding:5px 15px;
+    color:teal;
+    font-size:14px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.deleteBtn{
+    padding:5px 15px;
+    color:red;
+    font-size:14px;
+    background: transparent;
+    border: 1px solid red;
+    cursor: pointer;
+}
+.logoutBtn{
+    padding:5px 15px;
+    color:red;
+    font-size:14px;
+    background: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+}

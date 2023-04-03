@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Potato",
+      "price": 10,
+      "type": "Fruits"
+    },
+    {
+      "id": 2,
+      "name": "Tomato",
+      "price": 15,
+      "type": "Fruits"
+    },
+    {
+      "id": 3,
+      "name": "Pepper",
+      "price": 12,
+      "type": "Fruits"
+    },
+    {
+      "id": 4,
+      "name": "Onions",
+      "price": 12,
+      "type": "Fruits"
+    },
+    {
+      "id": 5,
+      "name": "Orange",
+      "price": 30,
+      "type": "Vegetables"
+    },
+    {
+      "id": 6,
+      "name": "Banana",
+      "price": 40,
+      "type": "Vegetables"
+    },
+    {
+      "id": 7,
+      "name": "Lemon",
+      "price": 50,
+      "type": "Vegetables"
+    },
+    {
+      "id": 8,
+      "name": "Watermelon",
+      "price": 100,
+      "type": "Vegetables"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "itemId": 2,
+      "body": "heh lllo"
+    },
+    {
+      "id": 2,
+      "itemId": 2,
+      "body": "grfeqr rq"
+    },
+    {
+      "id": 3,
+      "itemId": 3,
+      "body": "fuck"
+    },
+    {
+      "id": 4,
+      "itemId": 6,
+      "body": "this is shit"
+    },
+    {
+      "id": 5,
+      "itemId": 7,
+      "body": "comments yy"
+    },
+    {
+      "id": 6,
+      "itemId": 2,
+      "body": "ya slavik terminator"
+    },
+    {
+      "body": "tretrttr",
+      "itemId": "1",
+      "id": 7
+    },
+    {
+      "body": "kjjkjjjj",
+      "itemId": "1",
+      "id": 8
+    },
+    {
+      "body": "kak dila",
+      "itemId": "1",
+      "id": 9
+    }
+  ]
+}
